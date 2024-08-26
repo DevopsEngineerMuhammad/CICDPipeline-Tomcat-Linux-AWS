@@ -7,9 +7,8 @@ ec2-user
 sudo su
 ```
 
-```sh
-https://dlcdn.apache.org/tomcat/tomcat-9/v9.0.93/bin/apache-tomcat-9.0.93.tar.gz
-```
+
+# Download and install tomcat
 
 ```sh
 wget https://dlcdn.apache.org/tomcat/tomcat-9/v9.0.93/bin/apache-tomcat-9.0.93.tar.gz
@@ -20,7 +19,7 @@ ls
 ```
 
 ```sh
-tar -xzvf 
+tar -zxvf 
 ```
 
 ```sh
